@@ -1,4 +1,8 @@
 ---
+pmhacks:
+  - ttl: 600
+    type: CNAME
+    value: SOURCE_DOMAIN_OR_IP.
 "":
   - type: ALIAS
     value: solid-daffodil-0mn798giomwnltj8ssbu2xb6.herokudns.com.
